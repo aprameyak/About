@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Alogrithms**
 
-- 👨‍💻 All of my projects are available at [http://aprameyak.vercel.app]([http://aprameyak.vercel.app](https://aprameyak.s3.us-east-1.amazonaws.com/index.html))
+- 👨‍💻 All of my projects are available at [http://aprameyak.vercel.app](http://aprameyak.vercel.app](https://aprameyak.s3.us-east-1.amazonaws.com/index.html)
 
 - 💬 Ask me about **AWS, Oracle, and React**
 
